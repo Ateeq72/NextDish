@@ -1,6 +1,6 @@
 // import { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 
-import { SupabaseClient } from "@supabase/supabase-js";
+// import { SupabaseClient } from "@supabase/supabase-js";
 
 export default class SupabasesController {
 
