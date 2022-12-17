@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "installCommand": "npm install && npm ci --production",
   "builds": [
     {
       "src": "server.js",
