@@ -2,7 +2,9 @@
   "name": "ateeq-adonis-app",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": "16.x" },
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "dev": "node ace serve --watch",
     "build": "node ace build --production",
@@ -33,6 +35,7 @@
     "@supabase/supabase-js": "^2.1.1",
     "proxy-addr": "^2.0.7",
     "reflect-metadata": "^0.1.13",
-    "source-map-support": "^0.5.21"
+    "source-map-support": "^0.5.21",
+    "truncatise": "0.0.8"
   }
 }
